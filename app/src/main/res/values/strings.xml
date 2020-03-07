@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">puspaanggraeni</string>
+    <string name="deskription">
+
+            puspa sari dian Anggraeni kelahiran pangkalan bun,14 maret ,1999.\n
+        aku biasa dipanggil puspa oleh teman- temanku, anak pertama dari dua bersaudara.\n\n
+
+        aku berasal dari kalimantan tengah tepat nya berada di pangkalan bun,\n
+        sekarang aku sedang di yogya untuk berkuliah. \n\n
+
+            aku mempunyai seorang adik bernama nooor khaslisa
+        sekarang dia sudah kelas tiga SD.\n\n
+
+            aku juga mempunyai sahabat sejak sd \n
+        yaitu pattimah ,evy,syifa,bella dan vika.\n
+        sekarang kami sudah berkuliah di daerah masing-masing \n
+        evy berkuliah di kebidanan surabaya sedangkan pattimah berkuliah di iain banjarmasin\n
+        dan syifa berkuliah di semarang mengambil jurusan sastra jepang\n
+
+
+
+    </string>
+    <string name="profil">myfoto</string>
+    <string name="icon">favorit</string>
+    <string name="imageview">backgound</string>
+    <string name="title">BIODATA</string>
+    <string name="textname">Name :</string>
+    <string name="isiname">Nama Saya</string>
+    <string name="nama">nama</string>
+    <string name="deskripsi">Perkenalan</string>
+    <string name="button1">Done</string>
+    <string name="button2">Back</string>
+    <string name="Email">E-mail :</string>
+    <string name="iEmail">mm@mm.com</string>
+    <string name="share">share</string>
+</resources>
